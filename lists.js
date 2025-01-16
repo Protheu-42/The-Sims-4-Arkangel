@@ -34,3 +34,44 @@ export const generosMusicais = [
     "Rádio de Canções de Ninar"
   ];
   
+  export const caracteristicasDosSims = [
+    "Amantes da Natureza",
+    "Amantes dos Animais",
+    "Decidem com o Coração",
+    "Fãs de Romance",
+    "Peraltas",
+    "Sims Argumentativos",
+    "Sims Caseiros",
+    "Sims Egoístas",
+    "Sims Energéticos",
+    "Sims Engraçados",
+    "Sims Entusiasmados",
+    "Sims Esforçados",
+    "Sims Familiares",
+    "Sims Idealistas",
+    "Sims Intelectuais",
+    "Sims Otimistas",
+    "Sims Pessimistas",
+    "Sims Sem Ambição"
+  ];
+  
+  export const topicosDeConversa = [
+    "Comportamento Tolo",
+    "Conversa Fiada",
+    "Discussão de Interesses",
+    "Discussão de Passatempos",
+    "Discussões",
+    "Elogios",
+    "Fofocas",
+    "Histórias",
+    "Humor Escatológico",
+    "Interações Maliciosas",
+    "Intimidade Física",
+    "Paquera",
+    "Pensamentos Profundos",
+    "Piadas",
+    "Reclamações",
+    "Tramoia",
+    "Travessuras"
+  ];
+  
