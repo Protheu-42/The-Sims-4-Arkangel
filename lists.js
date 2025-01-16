@@ -75,3 +75,98 @@ export const generosMusicais = [
     "Travessuras"
   ];
   
+  export const atividades = [
+    "Bem-estar",
+    "Boliche",
+    "Canto",
+    "Ciência Aeroespacial",
+    "Comédia",
+    "Confeitaria",
+    "Culinária",
+    "Dança",
+    "Escalada",
+    "Escrita",
+    "Esqui",
+    "Fotografia",
+    "Ginástica",
+    "Interpretação",
+    "Jardinagem",
+    "Mecânica",
+    "Mixagem de DJ",
+    "Mixologia",
+    "Pesca",
+    "Pesquisa e Debate",
+    "Piano",
+    "Pintura",
+    "Produção de Mídia",
+    "Programação",
+    "Robótica",
+    "Snowboarding",
+    "Travessura",
+    "Videogame",
+    "Violino",
+    "Violão/Guitarra",
+    "Órgão de Tubos"
+  ];
+  
+  export const lModosDeVida = [
+    "Ambiciosos na Carreira",
+    "Artesanato",
+    "Comprometidos",
+    "Culinária",
+    "Falidos",
+    "Habilidade de Preparo de Bebidas",
+    "Habilidades Acadêmicas",
+    "Habilidades Interpessoais",
+    "Habilidades da Natureza",
+    "Habilidades de Apresentação",
+    "Habilidades de Engenharia",
+    "Habilidades de Mídia e Tecnologia",
+    "Habilidades de Saúde e Esportes",
+    "Habilidosos",
+    "Profissionais Independentes",
+    "Relaxados",
+    "Ricos",
+    "Senso de Humor"
+  ];
+  
+  export const lCaracteristicas = [
+    "Amantes da Natureza",
+    "Amantes dos Animais",
+    "Ambiciosos",
+    "Argumentativos",
+    "Bagunceiros",
+    "Caseiros",
+    "Decidem com o Coração",
+    "Egoístas",
+    "Energéticos",
+    "Sims Engraçados",
+    "Entusiasmados",
+    "Esforçados",
+    "Familiares",
+    "Idealistas",
+    "Intelectuais",
+    "Limpos",
+    "Otimistas",
+    "Pessimistas",
+    "Sem Ambição"
+  ];
+
+  export const lcoresDeCabelo = [
+    "Cabelos Azul-escuros",
+    "Cabelos Azul-turquesa",
+    "Cabelos Brancos",
+    "Cabelos Castanhos",
+    "Cabelos Castanhos Dourados",
+    "Cabelos Grisalhos",
+    "Cabelos Laranja",
+    "Cabelos Loiros",
+    "Cabelos Platinados",
+    "Cabelos Pretos",
+    "Cabelos Rosa-choque",
+    "Cabelos Roxo Pastel",
+    "Cabelos Verdes",
+    "Cabelos Vermelhos"
+  ];
+  
+  
