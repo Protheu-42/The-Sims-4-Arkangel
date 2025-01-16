@@ -43,8 +43,7 @@ function resultGiver(){
         const loveCharacteristcs = randomPìcker(lCaracteristicas);
         const hairColor = randomPìcker(lcoresDeCabelo);
         
-        console.log(`
-            Afeições e Repulsas
+        console.log(`Afeições e Repulsas
             Modos de vida: ${lifeStyle}
             Características: ${loveCharacteristcs}
             Cor de Cabelo: ${hairColor}
